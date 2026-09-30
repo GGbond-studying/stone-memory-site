@@ -3,7 +3,8 @@
 Stone Memory 官网静态发布文件。
 
 - 项目：https://github.com/wanyu445/stone_memory
-- 官网计划域名：`stonememory.hinachono.xyz`
+- 官网：https://ggbond-studying.github.io/stone-memory-site/
+- 使用 GitHub Pages 默认 HTTPS 地址，不绑定自定义域名。
 - 发布方式：GitHub Pages，`main` 分支根目录。
 - `index.html` 内嵌网页样式、脚本、字体和图片，无需 Node 服务。
 - 项目许可见 `LICENSE`，字体许可见 `licenses/`。
